@@ -3,7 +3,7 @@
 main()
 {
     int a;
- 
+ // from Kuba-PC
     printf("Enter an integer\n");
     scanf("%d", &a);
  
